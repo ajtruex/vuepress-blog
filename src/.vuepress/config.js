@@ -4,7 +4,7 @@ module.exports = {
 	title: "TruBoo's Bloggy Bloggy Blog",
 	dest: "./public",
 	themeConfig: {
-		repo: "https://wwww.github.com",
+		repo: "https://wwww.github.com/ajtruex/vuepress-blog",
 		repoLabel: "Repo",
 		editLinks: true,
 		editLinkText: "Found a bug? Help me improve this page!",
@@ -20,7 +20,7 @@ module.exports = {
 		[
 			"@vuepress/google-analytics",
 			{
-				ga: "" // UA-00000000-0
+				ga: "UA-133427021-1"
 			}
 		],
 		[
